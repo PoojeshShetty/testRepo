@@ -50,3 +50,16 @@ task list
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+# creating tables
+
+first header | second header
+------------ | -------------
+cell 1 content here | cell 2 content here
+cell 1 second row content here | cell 2 second row content here
+
+issue reference within a repository
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
