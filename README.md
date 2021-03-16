@@ -22,4 +22,4 @@ As naval said
 > building wealth is a skill
 > you can learn that skill
 
-trying an inline code `<int main(){ return 0}>`
+trying an inline code `int main(){ return 0}`
