@@ -23,3 +23,18 @@ As naval said
 > you can learn that skill
 
 trying an inline code `int main(){ return 0}`
+
+syntax highlighting
+you can highlight them like this
+```javascript
+function add(a,b){
+    var c = a+b
+    return c
+}
+```
+
+```python
+def fun(a,b):
+    c = a+b
+    return c
+```
