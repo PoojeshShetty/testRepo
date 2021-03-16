@@ -38,3 +38,7 @@ def fun(a,b):
     c = a+b
     return c
 ```
+
+adding a link 
+https://google.com - automatic!
+[Github](http://github.com)
