@@ -7,6 +7,7 @@ some practice styling for readme
 **this is bold**
 
 1. ordered list will be
+1. will look like this
     1. one
     1. two
     1. three
@@ -15,3 +16,10 @@ some practice styling for readme
 * this will look as follows
     * first
     * second
+
+
+As naval said 
+> building wealth is a skill
+> you can learn that skill
+
+trying an inline code '<int main(){ return 0}>'
